@@ -1,0 +1,16 @@
+{
+  "name": "hist_clinica",
+  "version": "0.0.1",
+  "description": "Historia Clinica Dr. Avendaño",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Stiven G. Perez"
+  ],
+  "license": "MIT",
+  "homepage": "hist_clinica.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
